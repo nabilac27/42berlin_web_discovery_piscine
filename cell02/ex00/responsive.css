@@ -1,0 +1,25 @@
+.table {
+    background-color: black;
+    border-collapse: collapse;
+    border: 2px solid black; 
+}
+
+.first-cell {
+    background-color: olive;
+    width: 750px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    border-collapse: collapse;
+    border: 2px solid black; 
+}
+
+.second-cell {
+    background-color: pink;
+    width: 750px;
+    height: 150px;
+    text-align: center;
+    color: black;
+    border-collapse: collapse;
+    border: 2px solid black; 
+}

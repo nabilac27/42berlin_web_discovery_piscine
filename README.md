@@ -23,13 +23,3 @@ During this intensive 5-day program, I learned the basics of web development and
 2. **JavaScript Exercises**: Created interactive web pages using JavaScript.
 3. **Git**: Managed code with Git for version control.
 4. **Responsive Layout**: Made a webpage that adapts to different screen sizes.
-
-## My Experience
-
-The piscine was a fast-paced, hands-on introduction to web development. I gained practical experience in creating websites, working with version control, and making sites responsive. It was a challenging but rewarding experience, and I’m excited to continue building on these skills.
-
----
-
-Feel free to reach out to me for questions or collaborations!
-
-[GitHub Profile](https://github.com/nabilac27)

@@ -15,7 +15,7 @@ During this intensive 5-day program, I learned the basics of web development and
 
 ## Table of Contents
 
-| File             | Description                                                         | Technologies Used  | Date Completed    |
+| File             | Description                                                         | Technologies Used  | Submitted Date   |
 |------------------|---------------------------------------------------------------------|--------------------|-------------------|
 | **cell00**      | Implemented basic shell commands | Shell               | 10/02/2025|
 | **cell01**      | 	Created basic HTML structure, implemented tables, and made the page responsive               | HTML               | 11/02/2025|

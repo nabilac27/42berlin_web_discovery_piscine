@@ -11,7 +11,7 @@ During this intensive 5-day program, I learned the basics of web development and
 | **cell00**      | Basic HTML syntax, creating tables, and making pages responsive    | HTML               | 10th February 2025|
 | **cell01**      | Created basic webpage structure using HTML                          | HTML               | 11th February 2025|
 | **cell02**       | Styled the webpage with a dropdown menu, profile card, and parallax effect | CSS                | 12th February 2025|
-| **cell03**| Implemented JavaScript for dynamic effects like background color change, balloons, and a calculator | HTML, CSS, JavaScript | 14th February 2025|
+| **cell03**| Implemented JavaScript for dynamic effects like background color change, balloons, and a calculator | HTML, CSS, JavaScript | 13th February 2025|
 
 ## What I Learned
 

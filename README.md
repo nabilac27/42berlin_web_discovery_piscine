@@ -24,3 +24,10 @@ During this intensive 5-day program, I learned the basics of web development and
 3. **Git**: Managed code with Git for version control.
 4. **Responsive Layout**: Made a webpage that adapts to different screen sizes.
 
+## Table of Contents
+| File | Description | Technologies Used | Date Completed |
+|------|-------------|-------------------|----------------|
+| **00-shell** | Shell scripting basics and commands | Shell | 10th February 2025 |
+| **01-html** | Created basic webpage structure using HTML | HTML | 11th February 2025 |
+| **02-css** | Styled the webpage with CSS | CSS | 12th February 2025 |
+| **03-parallax** | Implemented parallax scrolling effect | HTML, CSS | 14th February 2025 |

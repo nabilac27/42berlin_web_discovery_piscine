@@ -23,3 +23,11 @@ During this intensive 5-day program, I learned the basics of web development and
 2. **JavaScript Exercises**: Created interactive web pages using JavaScript.
 3. **Git**: Managed code with Git for version control.
 4. **Responsive Layout**: Made a webpage that adapts to different screen sizes.
+
+## Table of Contents
+| File | Description | Technologies Used | Date Completed |
+|------|-------------|-------------------|----------------|
+| **00-html_css** | Static webpage built using HTML & CSS | HTML, CSS | 10th February 2025 |
+| **01-javascript_exercises** | Interactive web pages using JavaScript | JavaScript | 11th February 2025 |
+| **02-git_exercises** | Version control with Git | Git | 12th February 2025 |
+| **03-responsive_design** | Making a webpage responsive | HTML, CSS, Media Queries | 14th February 2025 |

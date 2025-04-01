@@ -2,12 +2,6 @@
 
 This repository contains my work from the **Web Development Discovery Piscine** at **42 Berlin**, 
 
-which I attended from **10th February to 14th February 2025**. 
-
-During this intensive 5-day program, I learned the basics of web development and 
-
-gained hands-on experience with essential tools and technologies.
-
 ## Table of Contents
 
 | File             | Description                                                         | Technologies Used  | Date Completed    |
